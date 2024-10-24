@@ -13,7 +13,7 @@ Jenkins should automatically start a deployment process.
 </br>
 #### 2. CI/CD Pipeline: </br>
 Jenkins should: </br>
-
+...
 * Check out the latest code from the master branch.
 * Compile and test the code to ensure it works correctly
 * Package the application into a container using Docker.
