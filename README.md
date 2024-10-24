@@ -6,6 +6,7 @@ As they grew bigger, it became even harder to manage. <br>
 
 ### $\color{orange} \textbf{Requirements}$
 
+
 #### 1. Automated Deployment:</br>
 Whenever a developer makes changes to the code and pushes them to the master branch of the Git repository, </br>
 Jenkins should automatically start a deployment process.
